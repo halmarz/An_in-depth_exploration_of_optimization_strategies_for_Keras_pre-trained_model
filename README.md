@@ -11,6 +11,7 @@ for a pre-trained Keras model"
 
 ## Affiliation
 <sup>1</sup> Institute of Theoretical and Applied Informatics, Polish Academy of Sciences
+
 <sup>2</sup> Silesian University of Technology, Poland
 
 ## Paper Abstract
